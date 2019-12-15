@@ -1,1 +1,3 @@
-# peeks-at-the-weeks
+# Peeks at the Weeks
+
+Some information about this book goes here.

@@ -1,0 +1,47 @@
+--- 
+title: "Peeks at the Weeks"
+author: "Helen Weeks"
+date: ""
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: ldweeks/peeks-at-the-weeks
+description: "Letters from the Congo"
+cover-image: "images/cover.png"
+---
+
+# [A Weeks Family Book](https://beggarsborn.com/peeks-at-the-weeks/) {-}
+
+<center>
+
+This is where I can put some text.
+
+</center>
+
+This is where I can put some more text.
+
+#### Cover {-}
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://beggarsborn.com'}
+knitr::include_graphics('images/cover.png', dpi = NA)
+```
+
+# Introduction {-}
+
+*Christmas, 1988*
+
+Every now and then someone mentions that I should write a book based on our old letters.  But this is a project that I have always just pushed aside for some future date—when all the other projects are finished.
+
+Then by chance Steven and Julie saw a few of these old letters in which some "cute" things some of you had said or done were mentioned.  When Julie reported you all enjoyed them when you were together in Kinshasa, I decided to hunt up a few more that I knew were somewhere in the letters.
+
+So one thing led to another and without intending to compile a book, a book of quotes from old letters seems to have emerged.  The first is from a general letter which went to our complete mailing list.  Other than that, all of these quotes are from letters to my parents unless a note indicates differently.
+
+I have tried to include in this the important happenings in our life during those years as they pertained to the Weeks. You will note that very little is included about the work, the lives of the local people, etc. All this is another story.  The question was, where to stop.  The letters go on and on, if not to your grandparents, then to you once you were in the U.S. in college or else in the hostel.  So mostly I've tried to get you through the hostel years and until you were more or less on your own.
+
+You were all Such Cute Kids! And I did so love to write all about your doings and sayings and I tried to share your growing up with your grandparents. I hope you can now enjoy reliving the past and sharing it with your spouses and your children.
+
+Love,
+
+Mom

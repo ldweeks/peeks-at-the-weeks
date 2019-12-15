@@ -1,0 +1,6 @@
+book_filename: "Peeks-at-the-Weeks"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+output_dir: "docs"
