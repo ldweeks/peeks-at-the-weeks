@@ -1,3 +1,3 @@
 # Peeks at the Weeks
 
-Some information about this book goes here.
+Find it online here: https://ldweeks.github.io/peeks-at-the-weeks/
